@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\bin\Debug\net8.0\Pratik-Constructor.exe
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\bin\Debug\net8.0\Pratik-Constructor.deps.json
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\bin\Debug\net8.0\Pratik-Constructor.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\bin\Debug\net8.0\Pratik-Constructor.dll
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\bin\Debug\net8.0\Pratik-Constructor.pdb
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\obj\Debug\net8.0\Pratik-Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\obj\Debug\net8.0\Pratik-Constructor.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\obj\Debug\net8.0\Pratik-Constructor.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\obj\Debug\net8.0\Pratik-Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\obj\Debug\net8.0\Pratik-Constructor.dll
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\obj\Debug\net8.0\refint\Pratik-Constructor.dll
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\obj\Debug\net8.0\Pratik-Constructor.pdb
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\obj\Debug\net8.0\Pratik-Constructor.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-Constructor\Pratik-Constructor\obj\Debug\net8.0\ref\Pratik-Constructor.dll
